@@ -1,0 +1,7 @@
+Les éléments modifié sont les suivants :
+
+	- Nouveau fond
+	- Nouveaux sons
+	- Déplacement du chat
+	- Un nouveau personnage
+	- Nouvelle attaque
